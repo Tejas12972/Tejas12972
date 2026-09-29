@@ -1,12 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=Tejas12972">
+<img src="https://komarev.com/ghpvc/?username=Tejas12972&style=flat-square&color=0A66C2&label=Profile+views" />
 
-[![Tejas12972](https://github-readme-stats.vercel.app/api?username=Tejas12972&show_icons=true&theme=tokyonight)](https://github.com/Tejas12972)
+<br/><br/>
 
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Tejas12972&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />&nbsp;
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Tejas12972&layout=compact&theme=github_dark&hide_border=true&hide=html,css,jupyter%20notebook,mako,shell&langs_count=6" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas12972&hide=html&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/Tejas12972)
+<br/><br/>
 
+<img height="170" src="https://streak-stats.demolab.com?user=Tejas12972&theme=github-dark-blue&hide_border=true" />
 
+<br/><br/>
 
+<img src="https://ghchart.rshah.org/0A66C2/Tejas12972" width="90%" />
+
+</div>
